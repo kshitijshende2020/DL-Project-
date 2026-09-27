@@ -1,0 +1,7 @@
+Data/paraquet/test.parquet
+Data/paraquet/train.parquet
+Data/paraquet.zip
+Data/test.json
+Data/train.json
+/Reports
+models/Qwen3_4B/epoch_1/qwen3_4b_agri_lora
